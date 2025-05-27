@@ -1,0 +1,11 @@
+Resolution: 144p
+Delay: 1 second
+Throughput: 6 kb per second
+
+Resolution: 360p
+Delay: 1 second
+Throughput: 7.5 kb per second
+
+Resolution: 720p
+Delay: 500 ms
+Throughput: 13 kb per second
